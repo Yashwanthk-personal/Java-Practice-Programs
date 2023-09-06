@@ -1,1 +1,2 @@
 I am editing this file in Github Remote Repo.
+Now i am updating in my local and then i will push the changes to Repo - Origin Repo Name.
