@@ -17,9 +17,9 @@ public class SplitStringIntoEqualParts {
 		List<String> result = new ArrayList<>();
 		
 		int length = str.length();
-        int partLength = length/parts;
-        int remainingChar = length % parts;
-        int startIndex = 0;
+        	int partLength = length/parts;
+        	int remainingChar = length % parts;
+        	int startIndex = 0;
         
         for(int i=0;i<parts;i++) {
         	int currentPartLength = partLength + (remainingChar>0?1:0);
